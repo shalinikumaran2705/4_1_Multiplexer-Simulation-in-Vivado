@@ -173,6 +173,8 @@ end
 endmodule
 ```
 ## Simulated Output Behavioral Modelling
+![WhatsApp Image 2025-09-17 at 13 57 37_2d0b3b91](https://github.com/user-attachments/assets/4841e4bd-66da-42b4-8254-d3f916ba0fb4)
+
 
 
 _______ Here Paste the Simulated output  ___________
